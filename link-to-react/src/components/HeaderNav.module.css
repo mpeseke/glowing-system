@@ -1,0 +1,31 @@
+.headerNav {
+  background-color: #228b22;
+  padding: 1.5rem;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.headerNav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.headerNav li {
+  margin: 0 1.5rem;
+}
+
+.navLink {
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem;
+}
+
+.navLink:hover {
+  color: white;
+  text-decoration: none;
+  border-bottom: 2px solid white;
+  padding: 0.5rem;
+}

@@ -1,0 +1,12 @@
+.sideNav {
+  position: fixed;
+  width: 20%;
+  height: 100%;
+  box-shadow: 5px 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.content {
+  margin-left: 20%;
+  padding: 1rem;
+  overflow: hidden;
+}
